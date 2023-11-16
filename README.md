@@ -4,6 +4,8 @@ Bitcoin Core (download, usable, binary version)
 
 Further information about Bitcoin Core is available in the [doc folder](/doc).
 
+![image](https://github.com/geniusprodigy/bitcoin/assets/40725832/2215ff8c-111b-490f-807c-1b5dd58bc3af)
+
 What is Bitcoin?
 ----------------
 
